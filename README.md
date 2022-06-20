@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil Umare
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Full Stack Data Science and AI
+- 👀 I’m interested in Machine Learning Engineering & 
+- 🌱 I’m currently learning Data Science and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
